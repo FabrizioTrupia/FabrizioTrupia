@@ -29,8 +29,8 @@ Dal 01/09/22 al 23/03/23 ho seguito un corso di formazione con  [<img src="https
 
 <h2></h2>
 
-[![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=FabrizioTrupia&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioTrupia&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=FabrizioTrupia&show_icons=true&theme=merko)](https://github.com/FabrizioTrupia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioTrupia&layout=compact&theme=merko)](https://github.com/FabrizioTrupia)
 
 
 
