@@ -20,6 +20,17 @@ Dal 01/09/22 al 23/03/23 ho seguito un corso di formazione con  [<img src="https
 [<img src="https://th.bing.com/th/id/R.6f2ae89dfaee1d64cad67bdeb6c5dcb4?rik=dpNPtG%2fd54PccA&riu=http%3a%2f%2fanniecannons.github.io%2fac-introduction-to-apis%2fimg%2fpostman.png&ehk=1JbsOkmhwgsV1gRanV%2bfgM5P7h3SF34bpYnnJUe%2f2mA%3d&risl=&pid=ImgRaw&r=0" alt="postman logo" title="PostMan" height="50" />](https://github.com/FabrizioTrupia)
 [<img src="https://hownot2code.files.wordpress.com/2019/01/intellij-519-d4ff21c469.png" alt="intellij logo" title="intellij" height="50" />](https://github.com/FabrizioTrupia)
 
+<h2></h2>
+
+### Contatti
+
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" />](https://www.linkedin.com/in/fabrizio-trupia-471879258/)
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="30" />](mailto:fabriziotrupia1995@gmail.com)
+
+<h2></h2>
+
+[![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=FabrizioTrupia&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioTrupia&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
